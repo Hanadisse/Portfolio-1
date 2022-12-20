@@ -102,6 +102,11 @@ section {
     margin-right: auto;
 }
 
+#row {
+    display: flex;
+    justify-content: space-between;
+}
+
 #connect div {
     width: 53%;
     margin-right: auto;
